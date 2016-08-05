@@ -5,7 +5,7 @@ subgroup: 1_Javascript
 title: Calling and initializing JavaScript
 menu_title: Calling and initializing JavaScript
 menu_order: 2
-version: 2.0
+version: 2.0s
 github_link: javascript-dev-guide/javascript/js_init.md
 redirect_from:
   - guides/v2.0/frontend-dev-guide/javascript/js_init.html
@@ -37,7 +37,7 @@ Using the declarative notation to insert a JS component allows preparing all the
 In Magento 2 there are two ways of declarative notation:
 
  - using the `data-mage-init` attribute
- - using the `<scrtipt type="text/x-magento-init" />` tag
+ - using the `<script type="text/x-magento-init" />` tag
 
 Both ways are described further.
 
